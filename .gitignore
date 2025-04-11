@@ -1,6 +1,5 @@
 ignored/
 tailscale/
-.vscode/
 
 # Binaries for programs and plugins
 *.exe
@@ -46,3 +45,5 @@ integration_test/etc/config.dump.yaml
 /site
 
 __debug_bin
+config.bat
+node_modules
